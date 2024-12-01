@@ -26,7 +26,7 @@ body {
   font-size: 18px;
 }
 
-.link-active a {
+.link-active {
   text-decoration: none;
 }
 
@@ -118,7 +118,7 @@ body {
 
 .cover__description-text {
   color: #fff;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 22px;
   word-spacing: 17px;
 }
@@ -177,7 +177,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 563px;
+  min-height: 100%;
   padding: 51px 40px 48px 40px;
   background-repeat: no-repeat;
   background-position: center;
